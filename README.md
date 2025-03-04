@@ -12,6 +12,8 @@
 
 Research ViewBinding and implement ViewBinding in your code:
 
+Medium_What is View Binding in android and how it works internally_URL: https://medium.com/@sandeepkella23/what-is-view-binding-in-android-and-how-it-works-internally-74c9ce0e5422 
+
 ### User Authentication (Local):
 
 Develop a login screen with username and password fields.
