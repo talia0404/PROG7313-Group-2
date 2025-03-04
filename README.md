@@ -18,7 +18,7 @@ Develop a login screen with username and password fields.
 
 Implement basic validation to ensure inputs are provided.
 
-**Have this ready for the next lesson - 05/03/2025:**
+#### **Have this ready for the next lesson - 05/03/2025:**
 
 
 ### Event Creation:
