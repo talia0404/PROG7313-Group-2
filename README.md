@@ -10,6 +10,7 @@
 ### User Authentication (Local):
 
 Develop a login screen with username and password fields.
+
 Implement basic validation to ensure inputs are provided.
 
 ### Event Creation:
