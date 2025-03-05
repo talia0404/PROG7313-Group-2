@@ -21,17 +21,19 @@ Develop a login screen with username and password fields.
 Implement basic validation to ensure inputs are provided.
 
 
-
-#### **Have this ready for Wednesday - 05/03/2025:**
-
-
 ### Event Creation:
 
 Design a screen where users input event title, description, date, time and a location. 
 
 Include a button to save event details.
 
+### 05/03/2025
 
+
+Enable navigation in your app using Intents. The user should be able to navigate from the login screen to the event creation screen.
+
+
+Intent resources - https://www.geeksforgeeks.org/what-is-intent-in-android/
 
 
 
