@@ -27,7 +27,7 @@ Implement basic validation to ensure inputs are provided.
 
 ### Event Creation:
 
-Design a screen where users input event title, description, date, and a location. 
+Design a screen where users input event title, description, date, time and a location. 
 
 Include a button to save event details.
 
