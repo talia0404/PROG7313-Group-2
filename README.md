@@ -41,7 +41,7 @@ Intent resources - https://www.geeksforgeeks.org/what-is-intent-in-android/
 2. Research RoomDB VS Firebase in Android Studio.
 
 
-
+RoomDBResource - https://developer.android.com/training/data-storage/room
 
 
 
