@@ -30,7 +30,9 @@ Include a button to save event details.
 ### 05/03/2025
 
 
-1. Enable navigation in your app using Intents. The user should be able to navigate from the login screen to the event creation screen.
+1. Enable navigation in your app using Intents.
+
+The user should be able to navigate from the login screen to the event creation screen.
 
 
 Intent resources - https://www.geeksforgeeks.org/what-is-intent-in-android/
