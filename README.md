@@ -47,6 +47,20 @@ RoomDBResource - https://developer.android.com/training/data-storage/room
 ## **Have this ready for 11 March - Tuesday:**
 
 
+1. Create a register screen.
+
+   The user should be able to enter a unique username (the username must not already exist in the database), a password and confirm their password.
+
+
+3. If the fields are valid (non-empty fields and ensure the password and confirmation match) then these details should be saved in your database.
+
+   Display appropriate error messages.
+
+4. Retrieve the username from the database and add it to a TextView.
+
+   This TextView should be the heading for the EvenCreation Activity Screen. Eg: Heading: "Welcome user3789! Create an event:"
+
+   
 
 
 
