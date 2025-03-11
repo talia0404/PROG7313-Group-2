@@ -60,6 +60,28 @@ RoomDBResource - https://developer.android.com/training/data-storage/room
 
    This TextView should be the heading for the EvenCreation Activity Screen. Eg: Heading: "Welcome user3789! Create an event:"
 
+ ## **Have this ready for 11 March - Tuesday:**
+
+1. User Entity, DAO and database:
+
+Create UserEntity with a unique username constraint.
+
+Define UserDao with methods to insert a user and query by username.
+
+Update AppDatabase to include both UserEntity and your event entity.
+
+
+2. Register Screen:
+
+
+In RegisterActivity, validate input, check for unique username, insert user, and then pass the username to the event creation screen.
+
+Event Creation Screen:
+
+Retrieve the username from the Intent.
+
+Update a TextView to show a personalised greeting.
+
    
 ### Fill out this form on group details: 
 
