@@ -60,7 +60,7 @@ RoomDBResource - https://developer.android.com/training/data-storage/room
 
    This TextView should be the heading for the EvenCreation Activity Screen. Eg: Heading: "Welcome user3789! Create an event:"
 
- ## **Have this ready for 11 March - Tuesday:**
+ ##  11 March - Tuesday:**
 
 1. User Entity, DAO and database:
 
