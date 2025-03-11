@@ -60,6 +60,7 @@ RoomDBResource - https://developer.android.com/training/data-storage/room
 
    This TextView should be the heading for the EvenCreation Activity Screen. Eg: Heading: "Welcome user3789! Create an event:"
 
+
  ##  11 March - Tuesday:
 
 1. User Entity, DAO and database:
@@ -83,11 +84,13 @@ Retrieve the username from the Intent.
 Update a TextView to show a personalised greeting.
 
 
+**Once you're done with writing to and reading from the database:**
 
 
 3. Event Management Screen:
 
 Create a list screen that displays all saved events using RecyclerView.
+
 Allow users to update or delete events.
 
 
