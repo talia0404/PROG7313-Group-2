@@ -84,7 +84,7 @@ Retrieve the username from the Intent.
 Update a TextView to show a personalised greeting.
 
 
-##  12 March - Wednesday:
+##  12 March - Wednesday and have this ready for 17 March (Monday)
 
 **Once you're done with writing to and reading from the database:**
 
@@ -97,6 +97,9 @@ Allow users to update or delete events.
 
 
 
+<br>
+<br>
+<br>
 
    
 ### Fill out this form on group details: 
