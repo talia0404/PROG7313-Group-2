@@ -98,7 +98,9 @@ Create a list screen that displays all saved events using RecyclerView.
 Allow users to update or delete events.
 
 Resources: 
+
 Medium, Recycler View for beginners in Android - https://medium.com/@myofficework000/recycler-view-for-beginners-in-android-b54b1f445e38
+
 Create dynamic lists with RecyclerView - https://developer.android.com/develop/ui/views/layout/recyclerview
 
 
