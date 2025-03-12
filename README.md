@@ -84,6 +84,8 @@ Retrieve the username from the Intent.
 Update a TextView to show a personalised greeting.
 
 
+##  12 March - Wednesday:
+
 **Once you're done with writing to and reading from the database:**
 
 
