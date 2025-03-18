@@ -86,7 +86,7 @@ Retrieve the username from the Intent.
 Update a TextView to show a personalised greeting.
 
 
-##  12 March - Wednesday and have this ready for 17 March (Monday)
+##  12 March - Wednesday
 
 **Once you're done with writing to and reading from the database:**
 
@@ -102,6 +102,16 @@ Resources:
 Medium, Recycler View for beginners in Android - https://medium.com/@myofficework000/recycler-view-for-beginners-in-android-b54b1f445e38
 
 Create dynamic lists with RecyclerView - https://developer.android.com/develop/ui/views/layout/recyclerview
+
+
+## 18 March
+
+1. Implement Firebase Authentication in the MeetMeWhere app
+
+Integrate Firebase Authentication into your MeetMeWhere app so that user registration and login are handled securely via Firebase rather than locally. 
+Update your navigation so that after a successful login, the user is taken to the Event Management screen. 
+
+2. Ensure that users can navigate between screens in the app using a navigation bar.
 
 
 
