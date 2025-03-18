@@ -111,8 +111,29 @@ Create dynamic lists with RecyclerView - https://developer.android.com/develop/u
 Integrate Firebase Authentication into your MeetMeWhere app so that user registration and login are handled securely via Firebase rather than locally. 
 Update your navigation so that after a successful login, the user is taken to the Event Management screen. 
 
+- Set up Firebase (Create a Firebase project via the Firebase Console).
+
+- Update Registration Flow.
+
+  Modify your registration screen to use an email field.
+
+- Update Login Flow.
+
+Update your login screen to use an email field for authentication.
+
+- Testing.
+
+  Ensure that registration, login, and navigation between screens work.
+
 2. Ensure that users can navigate between screens in the app using a navigation bar.
 
+Refactor the MeetMeWhere app to use a Bottom Navigation Bar to switch between each screen.
+
+Requirements:
+
+- Use the Android Navigation Component to manage navigation between fragments.
+- Create fragments for your screens
+- Include a BottomNavigationView in your Activity layout that allows the user to switch between fragments.
 
 
 <br>
