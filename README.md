@@ -149,7 +149,15 @@ Your task is to implement a RecyclerView that displays a list of products, where
 
 The startup wants this feature to be fast, responsive, and user-friendly, so you must implement an efficient RecyclerView with proper data handling.
 
-### If you're done with RecyclerView
+### **Then implement RecyclerViews into the MeetMeWhereApp:**
+
+3. Event Management Screen:
+
+Create a list screen that displays all saved events using RecyclerView.
+
+Allow users to update or delete events.
+
+### **If you're done with RecyclerView**
 
 Activity: Integrating Firebase Authentication in an Android App
 
