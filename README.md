@@ -149,6 +149,8 @@ Your task is to implement a RecyclerView that displays a list of products, where
 
 The startup wants this feature to be fast, responsive, and user-friendly, so you must implement an efficient RecyclerView with proper data handling.
 
+RecyclerView Demo - https://github.com/talia0404/RecyclerView-Demo
+
 ### **Then implement RecyclerViews into the MeetMeWhereApp:**
 
 3. Event Management Screen:
@@ -156,6 +158,7 @@ The startup wants this feature to be fast, responsive, and user-friendly, so you
 Create a list screen that displays all saved events using RecyclerView.
 
 Allow users to update or delete events.
+
 
 ### **If you're done with RecyclerView**
 
@@ -169,8 +172,6 @@ Objectives:
 - Implement email and password authentication.
 - Handle user sign-up and login.
 - Display appropriate success and error messages.
-
-RecyclerView Demo - https://github.com/talia0404/RecyclerView-Demo
 
 <br>
 <br>
