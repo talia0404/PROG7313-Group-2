@@ -135,7 +135,7 @@ Requirements:
 - Create fragments for your screens
 - Include a BottomNavigationView in your Activity layout that allows the user to switch between fragments.
 
-## 19 March 
+## 19 March and 20th March
 
 RecyclerView  Activity
 
@@ -169,6 +169,8 @@ Objectives:
 - Implement email and password authentication.
 - Handle user sign-up and login.
 - Display appropriate success and error messages.
+
+RecyclerView Demo - https://github.com/talia0404/RecyclerView-Demo
 
 <br>
 <br>
