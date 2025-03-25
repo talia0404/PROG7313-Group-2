@@ -202,6 +202,8 @@ Easy to update and maintain.
 
 Less chance of version conflicts.
 
+ implementation("com.google.firebase:firebase-auth")
+
 - Connect firebase to your project
 
 Go to the Firebase Console > Authentication > Sign-in method and enable Email/Password.
